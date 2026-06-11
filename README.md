@@ -72,4 +72,11 @@ An interactive executive dashboard was constructed using a strategic information
 3. **Scale the Channel Partner Model:** Because Channel Partners boast a **73.1%** margin profile, even modest increases in marketing and distribution allocations to this channel will directly boost bottom-line net profit.
 
 ---
+## 👥 Prepared By
+* **Name:** Priyanshu Vijay
+  
+## ⚖️ License & Attribution
+
+This project is open-source software licensed under the **MIT License**.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](/LICENSE)
 
