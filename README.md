@@ -1,6 +1,6 @@
 # Global Financial Performance & Predictive Sales Analysis
 ***
-> 💡 **Note on Dataset:** This project was developed as a core deliverable during my internship period. It utilizes a real-time, real-world operational dataset provided directly by the host company to address actual business performance and forecasting challenges.
+> 💡 **Note on Dataset:** This project was developed during my internship period. It utilizes a real-time, real-world operational dataset provided directly by the host company to address actual business performance and forecasting challenges.
 ***
 A comprehensive data analytics and machine learning project focused on evaluating global business operations (2013–2014). This project cleanses and analyzes a 700-record transactional dataset via Exploratory Data Analysis (EDA), builds a Multiple Linear Regression model to forecast sales volumes, and deploys an interactive Power BI dashboard for executive stakeholder reporting.
 
